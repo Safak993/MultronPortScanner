@@ -1,0 +1,42 @@
+C:\Users\Q\Desktop\Siber güvenlik\C#\Calismalar\APp\APp\bin\Debug\APp.exe.config
+C:\Users\Q\Desktop\Siber güvenlik\C#\Calismalar\APp\APp\bin\Debug\APp.exe
+C:\Users\Q\Desktop\Siber güvenlik\C#\Calismalar\APp\APp\bin\Debug\APp.pdb
+C:\Users\Q\Desktop\Siber güvenlik\C#\Calismalar\APp\APp\bin\Debug\Guna.UI2.dll
+C:\Users\Q\Desktop\Siber güvenlik\C#\Calismalar\APp\APp\bin\Debug\MaterialSkin.dll
+C:\Users\Q\Desktop\Siber güvenlik\C#\Calismalar\APp\APp\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\Q\Desktop\Siber güvenlik\C#\Calismalar\APp\APp\obj\Debug\APp.csproj.AssemblyReference.cache
+C:\Users\Q\Desktop\Siber güvenlik\C#\Calismalar\APp\APp\obj\Debug\APp.Form1.resources
+C:\Users\Q\Desktop\Siber güvenlik\C#\Calismalar\APp\APp\obj\Debug\APp.Properties.Resources.resources
+C:\Users\Q\Desktop\Siber güvenlik\C#\Calismalar\APp\APp\obj\Debug\APp.csproj.GenerateResource.cache
+C:\Users\Q\Desktop\Siber güvenlik\C#\Calismalar\APp\APp\obj\Debug\APp.csproj.CoreCompileInputs.cache
+C:\Users\Q\Desktop\Siber güvenlik\C#\Calismalar\APp\APp\obj\Debug\APp.csproj.Up2Date
+C:\Users\Q\Desktop\Siber güvenlik\C#\Calismalar\APp\APp\obj\Debug\APp.exe
+C:\Users\Q\Desktop\Siber güvenlik\C#\Calismalar\APp\APp\obj\Debug\APp.pdb
+C:\Users\Q\Desktop\Siber güvenlik\C#\Calismalar\APp\APp\obj\Debug\APp.exe.config
+C:\Users\Q\Desktop\Siber güvenlik\C#\Calismalar\APp\APp\obj\Debug\APp.Uc.resources
+C:\Users\Q\Desktop\Siber güvenlik\C#\Calismalar\APp\APp\bin\Debug\FastColoredTextBox.dll
+C:\Users\Q\Desktop\Siber güvenlik\C#\Calismalar\APp\APp\bin\Debug\ScintillaNET.dll
+C:\Users\Q\Desktop\Siber güvenlik\C#\Calismalar\APp\APp\bin\Debug\FastColoredTextBox.xml
+C:\Users\Q\Desktop\Siber güvenlik\C#\Calismalar\APp\APp\bin\Debug\ScintillaNET.xml
+C:\Users\Q\Desktop\Siber güvenlik\C#\Calismalar\APp\APp\obj\Debug\APp.UserControl1.resources
+C:\Users\Q\Desktop\Siber_Guvenlik\C#\Calismalar\APp\APp\bin\Debug\APp.exe.config
+C:\Users\Q\Desktop\Siber_Guvenlik\C#\Calismalar\APp\APp\bin\Debug\APp.exe
+C:\Users\Q\Desktop\Siber_Guvenlik\C#\Calismalar\APp\APp\bin\Debug\APp.pdb
+C:\Users\Q\Desktop\Siber_Guvenlik\C#\Calismalar\APp\APp\bin\Debug\FastColoredTextBox.dll
+C:\Users\Q\Desktop\Siber_Guvenlik\C#\Calismalar\APp\APp\bin\Debug\Guna.UI2.dll
+C:\Users\Q\Desktop\Siber_Guvenlik\C#\Calismalar\APp\APp\bin\Debug\MaterialSkin.dll
+C:\Users\Q\Desktop\Siber_Guvenlik\C#\Calismalar\APp\APp\bin\Debug\ScintillaNET.dll
+C:\Users\Q\Desktop\Siber_Guvenlik\C#\Calismalar\APp\APp\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\Q\Desktop\Siber_Guvenlik\C#\Calismalar\APp\APp\bin\Debug\FastColoredTextBox.xml
+C:\Users\Q\Desktop\Siber_Guvenlik\C#\Calismalar\APp\APp\bin\Debug\ScintillaNET.xml
+C:\Users\Q\Desktop\Siber_Guvenlik\C#\Calismalar\APp\APp\obj\Debug\APp.csproj.AssemblyReference.cache
+C:\Users\Q\Desktop\Siber_Guvenlik\C#\Calismalar\APp\APp\obj\Debug\APp.exe.config
+C:\Users\Q\Desktop\Siber_Guvenlik\C#\Calismalar\APp\APp\obj\Debug\APp.Form1.resources
+C:\Users\Q\Desktop\Siber_Guvenlik\C#\Calismalar\APp\APp\obj\Debug\APp.Properties.Resources.resources
+C:\Users\Q\Desktop\Siber_Guvenlik\C#\Calismalar\APp\APp\obj\Debug\APp.UserControl1.resources
+C:\Users\Q\Desktop\Siber_Guvenlik\C#\Calismalar\APp\APp\obj\Debug\APp.Uc.resources
+C:\Users\Q\Desktop\Siber_Guvenlik\C#\Calismalar\APp\APp\obj\Debug\APp.csproj.GenerateResource.cache
+C:\Users\Q\Desktop\Siber_Guvenlik\C#\Calismalar\APp\APp\obj\Debug\APp.csproj.CoreCompileInputs.cache
+C:\Users\Q\Desktop\Siber_Guvenlik\C#\Calismalar\APp\APp\obj\Debug\APp.csproj.Up2Date
+C:\Users\Q\Desktop\Siber_Guvenlik\C#\Calismalar\APp\APp\obj\Debug\APp.exe
+C:\Users\Q\Desktop\Siber_Guvenlik\C#\Calismalar\APp\APp\obj\Debug\APp.pdb

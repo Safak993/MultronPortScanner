@@ -1,0 +1,97 @@
+MULTRON PORT SCANNER — TİCARİ KULLANIM LİSANSI
+
+Telif Hakkı (c) 2026 Şafak Miraç (Safak993)
+Tüm hakları saklıdır.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+§1 — TANIMLAR
+
+"Yazılım"     : Multron Port Scanner ve tüm bileşenleri (C# arayüzü,
+                Python tarama motoru, kaynak kodları, görseller ve
+                ilgili tüm dosyalar).
+
+"Geliştirici" : Şafak Miraç — GitHub: @Safak993
+
+"Kullanıcı"   : Bu lisansı kabul eden gerçek veya tüzel kişi.
+
+"Ticari Kullanım" : Doğrudan veya dolaylı olarak maddi kazanç,
+                ücretli hizmet, ürün satışı veya kurumsal süreçlerde
+                kullanım.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+§2 — ÜCRETSİZ KULLANIM HAKKI
+
+Aşağıdaki durumlarda Geliştirici'den ayrıca izin almaya gerek yoktur:
+
+  ✔  Kişisel, eğitim veya araştırma amaçlı kullanım
+  ✔  Açık kaynak projelerde kaynak göstererek kullanım
+  ✔  Kâr amacı gütmeyen kuruluşlarda kullanım
+  ✔  Yazılımı fork'layarak kişisel geliştirme
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+§3 — TİCARİ LİSANS ZORUNLULUĞU
+
+Aşağıdaki durumlarda Geliştirici ile iletişime geçilerek
+yazılı izin alınması ZORUNLUDUR:
+
+  ✘  Yazılımı veya türevlerini satmak, kiralamak veya lisanslamak
+  ✘  Ücretli bir ürün veya hizmetin parçası olarak dağıtmak
+  ✘  Kurumsal/şirket ortamlarında ticari amaçla kullanmak
+  ✘  SaaS, PaaS veya benzeri platform hizmetlerinde sunmak
+  ✘  Geliştirici adını veya markasını kaldırarak yeniden dağıtmak
+
+Ticari lisans talebi için:
+  📧 E-posta : safakmiraac@gmail.com
+  👾 Discord : mirac2_2
+  🐙 GitHub  : https://github.com/Safak993
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+§4 — YASAK FAALİYETLER
+
+Kullanıcı aşağıdakileri YAPAMAZ:
+
+  a) Geliştirici'nin açık yazılı izni olmadan Yazılımı satamaz.
+  b) Telif hakkı, lisans veya atıf bildirimlerini kaldıramaz.
+  c) Yazılımı yasadışı faaliyetlerde kullanamaz.
+  d) Yazılımı; Geliştirici'nin ürettiğini gizleyerek üçüncü
+     taraflara kendi ürünü olarak sunamaz.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+§5 — ATIf ZORUNLULUĞU
+
+Yazılımın herhangi bir kopyası veya türevi dağıtılırken
+aşağıdaki atıf görünür şekilde belirtilmelidir:
+
+  "Multron Port Scanner — Şafak Miraç (Safak993) tarafından
+   geliştirilmiştir. https://github.com/Safak993"
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+§6 — GARANTİ REDDİ
+
+BU YAZILIM "OLDUĞU GİBİ" SUNULMAKTADIR. GELİŞTİRİCİ;
+TİCARİ ELVERİŞLİLİK, BELİRLİ BİR AMACA UYGUNLUK VEYA
+İHLAL ETMEME KONUSUNDA HİÇBİR GARANTİ VERMEZ.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+§7 — SORUMLULUK SINIRLAMASI
+
+Geliştirici; bu Yazılımın kullanımından doğan doğrudan,
+dolaylı, arızi veya sonuçsal hiçbir zarardan sorumlu tutulamaz.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+§8 — LİSANS İHLALİ
+
+Bu lisansın ihlali durumunda kullanım hakkı otomatik olarak
+sona erer ve Geliştirici yasal yollara başvurma hakkını saklı tutar.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Son güncelleme: 2026
