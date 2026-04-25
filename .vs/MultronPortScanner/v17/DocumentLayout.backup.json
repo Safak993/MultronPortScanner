@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Q\\Desktop\\Yazilim\\Python\\ml-data-science-projects\\SiberGuv\\Projeler\\MultronPortScanner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{042839C6-6165-4B64-96E5-C8B35D6EA863}|APp\\APp.csproj|c:\\users\\q\\desktop\\yazilim\\python\\ml-data-science-projects\\siberguv\\projeler\\multronportscanner\\app\\uc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{042839C6-6165-4B64-96E5-C8B35D6EA863}|APp\\APp.csproj|solutionrelative:app\\uc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{042839C6-6165-4B64-96E5-C8B35D6EA863}|APp\\APp.csproj|c:\\users\\q\\desktop\\yazilim\\python\\ml-data-science-projects\\siberguv\\projeler\\multronportscanner\\app\\uc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{042839C6-6165-4B64-96E5-C8B35D6EA863}|APp\\APp.csproj|solutionrelative:app\\uc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Uc.cs",
+              "DocumentMoniker": "C:\\Users\\Q\\Desktop\\Yazilim\\Python\\ml-data-science-projects\\SiberGuv\\Projeler\\MultronPortScanner\\APp\\Uc.cs",
+              "RelativeDocumentMoniker": "APp\\Uc.cs",
+              "ToolTip": "C:\\Users\\Q\\Desktop\\Yazilim\\Python\\ml-data-science-projects\\SiberGuv\\Projeler\\MultronPortScanner\\APp\\Uc.cs",
+              "RelativeToolTip": "APp\\Uc.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAwwFsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T21:02:05.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Uc.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Q\\Desktop\\Yazilim\\Python\\ml-data-science-projects\\SiberGuv\\Projeler\\MultronPortScanner\\APp\\Uc.cs",
+              "RelativeDocumentMoniker": "APp\\Uc.cs",
+              "ToolTip": "C:\\Users\\Q\\Desktop\\Yazilim\\Python\\ml-data-science-projects\\SiberGuv\\Projeler\\MultronPortScanner\\APp\\Uc.cs [Tasar\u0131m]",
+              "RelativeToolTip": "APp\\Uc.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T20:55:20.326Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
