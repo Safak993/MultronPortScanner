@@ -131,7 +131,7 @@ scapy
 **Şafak Miraç** — [@Safak993](https://github.com/Safak993)
 
 - 🌐 Website: [imageforgepro-six.vercel.app](https://imageforgepro-six.vercel.app)
-- 👾 Discord: `mirac2_2`
+- 👾 Discord: `porius_12_48383`
 - 📸 Instagram: [@sung_jinwoo126](https://www.instagram.com/sung_jinwoo126)
 
 ---
